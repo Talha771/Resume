@@ -1,6 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1708197703 "main.tex" "main.pdf" "main" 1708197704 0
+["pdflatex"] 1708272021 "d:/Resume git/main.tex" "main.pdf" "main" 1708272022 0
   "Skills.tex" 1708197479 485 24458ba6f818ab6e9cb62e94829d4815 ""
+  "d:/Resume git/main.tex" 1708262621 3913 feddcb7812b5294db1c0f6dbb1ad1b68 ""
   "d:/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1708192248 2920 d63721872b8c77041b88e51b8f7c291d ""
   "d:/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1708192248 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "d:/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1708192248 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
@@ -111,10 +112,10 @@
   "d:/texlive/2023/texmf.cnf" 1708194677 713 e69b156964470283e0530f5060668171 ""
   "education.tex" 1708102900 378 e0e380dfcf972c6765f01160baa626b3 ""
   "experience.tex" 1708197483 2042 eabb61ea0911eaf1c6940fb1c555ae7b ""
-  "main.aux" 1708197704 1064 ec1956e97464c2e1df88086f61d990ad "pdflatex"
-  "main.out" 1708197704 385 15c52ab10e9a43eae24e46f12692c93d "pdflatex"
-  "main.tex" 1708197287 3924 bc0608df8f0a8ca4673bb6746005346a ""
-  "projects.tex" 1708197475 1870 1f7707af296848595cf607f83af2259a ""
+  "main.aux" 1708272022 1064 ec1956e97464c2e1df88086f61d990ad "pdflatex"
+  "main.out" 1708272022 385 15c52ab10e9a43eae24e46f12692c93d "pdflatex"
+  "main.tex" 1708262621 3913 feddcb7812b5294db1c0f6dbb1ad1b68 ""
+  "projects.tex" 1708272020 1930 52f62853422d80ce08cc3c9ba8dfd48f ""
   (generated)
   "main.aux"
   "main.log"
