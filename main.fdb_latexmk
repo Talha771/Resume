@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1734823830 "d:/Resume git/main.tex" "main.pdf" "main" 1734823832 0
+["pdflatex"] 1734933620 "d:/Resume git/main.tex" "main.pdf" "main" 1734933622 0
   "Skills.tex" 1708197479 485 24458ba6f818ab6e9cb62e94829d4815 ""
   "d:/Resume git/main.tex" 1734823783 3915 d8d3e0d3a9421feb2f259371e71592af ""
   "d:/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1708192248 2920 d63721872b8c77041b88e51b8f7c291d ""
@@ -111,9 +111,9 @@
   "d:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1708195210 7883457 fe77283604ccf24f482b170c2ec06cd3 ""
   "d:/texlive/2023/texmf.cnf" 1708194677 713 e69b156964470283e0530f5060668171 ""
   "education.tex" 1708960034 504 f26e08320d700d94907f84f88dd21b62 ""
-  "experience.tex" 1734823829 2445 ad445e34c2fccbfe84e09263f216023e ""
-  "main.aux" 1734823832 1064 5aa6e2779743e4151a88ab1dc7b06863 "pdflatex"
-  "main.out" 1734823832 385 1c8cfcd1c7f1776e71b24ee479657a07 "pdflatex"
+  "experience.tex" 1734933604 2466 ffc20d5eae6e5ee38b7ab4af4de7501c ""
+  "main.aux" 1734933622 1064 5aa6e2779743e4151a88ab1dc7b06863 "pdflatex"
+  "main.out" 1734933622 385 1c8cfcd1c7f1776e71b24ee479657a07 "pdflatex"
   "main.tex" 1734823783 3915 d8d3e0d3a9421feb2f259371e71592af ""
   "projects.tex" 1715581732 2708 4f74872ccf0dbf32f5d952e191af5cfc ""
   (generated)
