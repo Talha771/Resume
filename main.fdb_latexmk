@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1738303227 "f:/resumeGit/Resume/main.tex" "main.pdf" "main" 1738303228 0
+["pdflatex"] 1738727431 "f:/resumeGit/Resume/main.tex" "main.pdf" "main" 1738727432 0
   "Skills.tex" 1736040291 503 24458ba6f818ab6e9cb62e94829d4815 ""
   "d:/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1708192248 2920 d63721872b8c77041b88e51b8f7c291d ""
   "d:/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1708192248 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -110,13 +110,13 @@
   "d:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1708194925 4662804 0cdd15146f76740ec2a30e55c6cffc38 ""
   "d:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1708195210 7883457 fe77283604ccf24f482b170c2ec06cd3 ""
   "d:/texlive/2023/texmf.cnf" 1708194677 713 e69b156964470283e0530f5060668171 ""
-  "education.tex" 1736913423 525 5a38cbf3cb380c14fe55b99d33ae51b4 ""
-  "experience.tex" 1736913423 2641 cd54ab1b6ebe7bc89b10fe9c654f4ff2 ""
-  "f:/resumeGit/Resume/main.tex" 1737517286 3493 d292e9d908b3117809c666876186c389 ""
-  "header.tex" 1737592100 767 383bfbfd751e15257b87519808322c39 ""
-  "main.aux" 1738303228 1055 59e78490d34d09eddfada5bb8c685855 "pdflatex"
-  "main.out" 1738303228 337 7da66cbf4db6747adcd9fdec91cec702 "pdflatex"
-  "main.tex" 1737517286 3493 d292e9d908b3117809c666876186c389 ""
+  "education.tex" 1738720402 363 5f6a7586cd17123ea3b9c9e62e8790f8 ""
+  "experience.tex" 1738542678 2065 15e1ff47e23508f66a330b1a5aa5cfc8 ""
+  "f:/resumeGit/Resume/main.tex" 1738727429 3494 6a76210bf0718ca82a260d3da035301d ""
+  "header.tex" 1738720298 644 7008266b688141db04cbbffedda4b0a4 ""
+  "main.aux" 1738727432 1055 59e78490d34d09eddfada5bb8c685855 "pdflatex"
+  "main.out" 1738727432 337 7da66cbf4db6747adcd9fdec91cec702 "pdflatex"
+  "main.tex" 1738727429 3494 6a76210bf0718ca82a260d3da035301d ""
   "projects.tex" 1738303220 2640 db8f371c5224a6c6949bf6b51b250b92 ""
   (generated)
   "main.aux"
