@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1736794911.06917 "d:/resume git/Resume/main.tex" "main.pdf" "main" 1736794911.71155 0
-  "Skills.tex" 1734917102 503 24458ba6f818ab6e9cb62e94829d4815 ""
+["pdflatex"] 1741505319.11342 "d:/resume git/Resume/main.tex" "main.pdf" "main" 1741505319.98037 0
+  "Skills.tex" 1741223858 542 0959ff875defacda17bbf39d31b5117e ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1735712608 2920 d63721872b8c77041b88e51b8f7c291d ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1735712608 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1735712608 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
@@ -32,7 +32,6 @@
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1734324262 32080 340ef9bf63678554ee606688e7b5339d ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1734324262 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1734324262 35752 024fb6c41858982481f6968b5fc26508 ""
-  "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1734324262 32762 7fee39e011c23b3589931effd97b9702 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1734324262 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb" 1734324262 32587 65067f817f408bc71a7312f3d9828a9b ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1734324262 37944 359e864bd06cde3b1cf57bb20757fb06 ""
@@ -108,13 +107,13 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1735712610 158547 917f327fb0c904b5339bf37f2f8f9b3b ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1735707347 1973291 fc8bffd0dd60c55614ab803e58dd9788 ""
   "c:/texlive/2024/texmf.cnf" 1734324444 801 3c495eb8f23f145306d09b4ffa3d382c ""
-  "d:/resume git/Resume/main.tex" 1735712679 4048 2ef8d4eec1280338dd6b0335bf96480f ""
-  "education.tex" 1736794909 525 5a38cbf3cb380c14fe55b99d33ae51b4 ""
-  "experience.tex" 1736794860 2641 cd54ab1b6ebe7bc89b10fe9c654f4ff2 ""
-  "main.aux" 1736794911 710 f126d21d16b709ae502af8ef9fe8ad51 "pdflatex"
-  "main.out" 1736794911 385 1c8cfcd1c7f1776e71b24ee479657a07 "pdflatex"
-  "main.tex" 1735712679 4048 2ef8d4eec1280338dd6b0335bf96480f ""
-  "projects.tex" 1736794816 2649 dc747af2c44ccfd436b41bcb3847d2ab ""
+  "d:/resume git/Resume/main.tex" 1741466313 4968 de889c30b16207d3e4c0ff3662c7c054 ""
+  "education.tex" 1741223317 523 3fb7ce490aaecd2340eef783c006d3d1 ""
+  "experience.tex" 1741505318 2789 f90626539460dc22c814d44bfadc2916 ""
+  "main.aux" 1741505319 710 1c86efa666d6966180cbb42ae6b99546 "pdflatex"
+  "main.out" 1741505319 385 0a1a2320757ed363340a720063b3f5f6 "pdflatex"
+  "main.tex" 1741466313 4968 de889c30b16207d3e4c0ff3662c7c054 ""
+  "projects.tex" 1741505282 2786 a71c4ca21a6fcb7b27a82f2b2c9f2a1d ""
   (generated)
   "main.aux"
   "main.log"
